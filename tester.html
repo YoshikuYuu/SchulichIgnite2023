@@ -3,11 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive Circle Visualization</title>
+    <title>Chinese Influence by ROF</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div id="title">Title</div>
+    <div id="title">
+        <div class="title 1">Chinese Influence by ROF</div>
+        <div class="subheading">Figure out which parent Chinese companies have influence over a country or region!</div>
+        <div class="subheading2">How to use: click on any circle corresponding to a country. Click the pie chart to close the loaded data.</div>
+        <div class="subheading2">The sizes of the circle on the map correspond to follower count (individuals that follow a Chinese influencer on social media).</div>
+    </div>
 
     <div id="image-container">
         <div id="visualization">
@@ -20,7 +25,15 @@
     <div class="popup" id="popup">
         <canvas id="pieGraph" width="200" height="200" hidden></canvas>
     </div>
-    <script src="rof_to_pop_radius.js"></script>
+
+    <div class="dataDiv">
+        <div id="countryNameDisplay" class="countryNameDisplay"></div>
+        <div id="dataDisplay" class="dataDisplay"></div>
+    </div>
+
+    <div class="footer"></div>
+
+    <script src="chinese_influence_by_rof.js"></script>
     <script src="script.js"></script>
     <script src="countries_coordinates.js"></script>
 </body>
