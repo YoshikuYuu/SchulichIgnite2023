@@ -12,6 +12,8 @@ document.addEventListener('DOMContentLoaded', function () {
         "England": { total: 500, cows: 42 }
     };
 
+    console.log(rofData);
+
     const visualizationContainer = document.getElementById('visualization');
 
     Object.entries(data).forEach(([country, values]) => {
