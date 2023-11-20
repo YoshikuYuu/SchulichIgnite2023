@@ -116,9 +116,14 @@ document.addEventListener('DOMContentLoaded', function () {
         return colour;
       }
 
+      const distanceFromBottom = image.getBoundingClientRect().bottom;
+      
       function displayData(isDataVisible, parents, colours, country) {
         const container = document.getElementById('dataDisplay');
         const countryContainer = document.getElementById('countryNameDisplay');
+
+        container.style.top = distanceFromBottom + 38 + "px";
+        countryContainer.style.top = distanceFromBottom + 8 + "px";
 
         if (isDataVisible) {
             showRectangles(container, countryContainer, parents, colours, country);
