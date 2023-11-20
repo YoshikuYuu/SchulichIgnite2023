@@ -1420,9 +1420,33 @@ const rofData = {
     },
     {
       "rof": "China",
+      "owner": "Yunnan Daily Press Group",
+      "parent": "State Council Information Office (SCIO)",
+      "followers": 12400.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai United Media Group (SUMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 166133.0
+    },
+    {
+      "rof": "China",
       "owner": "Diba",
       "parent": "Diba",
       "followers": 70300.0
+    },
+    {
+      "rof": "China",
+      "owner": "Jiangxi Provincial Department of Culture and Tourism",
+      "parent": "Jiangxi Provincial People's Government",
+      "followers": 1288000.0
+    },
+    {
+      "rof": "China",
+      "owner": "China International Communications Group (CICG)",
+      "parent": "Central Publicity Department",
+      "followers": 193477.0
     },
     {
       "rof": "China",
@@ -1444,9 +1468,27 @@ const rofData = {
     },
     {
       "rof": "China",
+      "owner": "China Daily Press",
+      "parent": "Central Publicity Department",
+      "followers": 1703717.0
+    },
+    {
+      "rof": "China",
+      "owner": "Xiamen Culture and Tourism Bureau",
+      "parent": "Xiamen Municipal People's Government",
+      "followers": 408909.0
+    },
+    {
+      "rof": "China",
       "owner": "China Youth Daily Press",
       "parent": "Central Committee of the Communist Youth League",
       "followers": 147.0
+    },
+    {
+      "rof": "China",
+      "owner": "Hubei Radio & Television Station (HBTV)",
+      "parent": "Hubei Provincial People's Government",
+      "followers": 1153.0
     },
     {
       "rof": "China",
@@ -1468,9 +1510,33 @@ const rofData = {
     },
     {
       "rof": "China",
+      "owner": "Hong Kong Ta Kung Wen Wei Media Group (HKTKWW)",
+      "parent": "Hong Kong Liaison Office of the Central Government ",
+      "followers": 10943.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai Media Group (SMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 1678189.0
+    },
+    {
+      "rof": "China",
+      "owner": "Beijing Jiandanshiji Culture Media Co., Ltd",
+      "parent": "unknown",
+      "followers": 1552685.0
+    },
+    {
+      "rof": "China",
       "owner": "China News Service (CNS)",
       "parent": "United Front Work Department",
       "followers": 2237100.0
+    },
+    {
+      "rof": "China",
+      "owner": "Fuzhou Culture and Tourism Bureau",
+      "parent": "Fuzhou Municipal People's Government",
+      "followers": 69200.0
     },
     {
       "rof": "China",
@@ -1498,15 +1564,81 @@ const rofData = {
     },
     {
       "rof": "China",
+      "owner": "GLTVS",
+      "parent": "Guilin Municipal People's Government",
+      "followers": 51900.0
+    },
+    {
+      "rof": "China",
       "owner": "Guangdong Provincial Cyberspace Administration",
       "parent": "Office of the Cybersecurity and Information Technology Committee of the Guangdong Provincial Committee",
       "followers": 79300.0
     },
     {
       "rof": "China",
+      "owner": "Henan Broadcasting System",
+      "parent": "Henan Provincial Committee",
+      "followers": 12454.0
+    },
+    {
+      "rof": "China",
       "owner": "People's Daily Press",
       "parent": "Central Committee of the Chinese Communist Party",
       "followers": 176600.0
+    },
+    {
+      "rof": "China",
+      "owner": "Hunan Rednet New Media Group",
+      "parent": "Hunan Provincial Committee",
+      "followers": 1328.0
+    },
+    {
+      "rof": "China",
+      "owner": "Jiangsu Provincial Department of Cultural & Tourism",
+      "parent": "Jiangsu Provincial People's Government",
+      "followers": 19100.0
+    },
+    {
+      "rof": "China",
+      "owner": "Chongqing International Communication Center",
+      "parent": "Chongqing Municipal Committee",
+      "followers": 7228712.0
+    },
+    {
+      "rof": "China",
+      "owner": "China Daily Press",
+      "parent": "Ningbo Municipal People's Government",
+      "followers": 52900.0
+    },
+    {
+      "rof": "China",
+      "owner": "China Daily Press",
+      "parent": "Jilin Provincial People's Government",
+      "followers": 199300.0
+    },
+    {
+      "rof": "China",
+      "owner": "Jilin Daily Press",
+      "parent": "Jilin Provincial Committee",
+      "followers": 12200.0
+    },
+    {
+      "rof": "China",
+      "owner": "People's Daily Press",
+      "parent": "Central Committee of the Chinese Communist Party",
+      "followers": 2418.0
+    },
+    {
+      "rof": "China",
+      "owner": "Jiaxing Radio and Television Media Co., Ltd.",
+      "parent": "Jiaxing Municipal Committee",
+      "followers": 2.0
+    },
+    {
+      "rof": "China",
+      "owner": "Phoenix Media Investment (Holdings) Limited",
+      "parent": "Bauhinia Culture Holdings Limited",
+      "followers": 26820.0
     },
     {
       "rof": "China",
@@ -1519,6 +1651,12 @@ const rofData = {
       "owner": "People's Daily Press",
       "parent": "Central Committee of the Chinese Communist Party",
       "followers": 96805535.0
+    },
+    {
+      "rof": "China",
+      "owner": "People's Daily Press",
+      "parent": "Central Committee of the Chinese Communist Party",
+      "followers": 1404494.0
     },
     {
       "rof": "China",
@@ -1540,6 +1678,138 @@ const rofData = {
     },
     {
       "rof": "China",
+      "owner": "China Daily Press",
+      "parent": "Sanya Municipal People's Government",
+      "followers": 783816.0
+    },
+    {
+      "rof": "China",
+      "owner": "Beijing Jiandanshiji Culture Media Co., Ltd",
+      "parent": "unknown",
+      "followers": 80700.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai United Media Group (SUMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 1018600.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai Media Group (SMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 2851982.0
+    },
+    {
+      "rof": "China",
+      "owner": "China Daily Press",
+      "parent": "Shaoxing Municipal People's Government",
+      "followers": 48700.0
+    },
+    {
+      "rof": "China",
+      "owner": "Sichuan Daily Online Media Development Co., Ltd.",
+      "parent": "Sichuan Provincial Committee",
+      "followers": 29026.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai United Media Group (SUMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 784121.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai Media Group (SMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 6908.0
+    },
+    {
+      "rof": "China",
+      "owner": "unknown",
+      "parent": "unknown",
+      "followers": 3451.0
+    },
+    {
+      "rof": "China",
+      "owner": "Hong Kong Ta Kung Wen Wei Media Group (HKTKWW)",
+      "parent": "Hong Kong Liaison Office of the Central Government ",
+      "followers": 54122.0
+    },
+    {
+      "rof": "China",
+      "owner": "Hong Kong Ta Kung Wen Wei Media Group (HKTKWW)",
+      "parent": "Hong Kong Liaison Office of the Central Government ",
+      "followers": 57543.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai United Media Group (SUMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 38485.0
+    },
+    {
+      "rof": "China",
+      "owner": "Nanfang Daily Newspaper Group Co.,Ltd",
+      "parent": "Guangdong Provincial Committee",
+      "followers": 3088225.0
+    },
+    {
+      "rof": "China",
+      "owner": "China Daily Press",
+      "parent": "Tibet Autonomous Region People's Government",
+      "followers": 196198.0
+    },
+    {
+      "rof": "China",
+      "owner": "Zhejiang Daily Newspaper Group",
+      "parent": "Zhejiang Provincial Committee",
+      "followers": 6396.0
+    },
+    {
+      "rof": "China",
+      "owner": "AcMedia Limited",
+      "parent": "unknown",
+      "followers": 209412.0
+    },
+    {
+      "rof": "China",
+      "owner": "Hong Kong China News Agency",
+      "parent": "United Front Work Department",
+      "followers": 11600.0
+    },
+    {
+      "rof": "China",
+      "owner": "Hong Kong China News Agency",
+      "parent": "United Front Work Department",
+      "followers": 5693.0
+    },
+    {
+      "rof": "China",
+      "owner": "Sanya Tourism Board",
+      "parent": "Sanya Municipal People's Government",
+      "followers": 800455.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shandong Provincial Department of Culture and Tourism",
+      "parent": "Shandong Provincial People's Government",
+      "followers": 1558550.0
+    },
+    {
+      "rof": "China",
+      "owner": "Suzhou Municipal Bureau of Culture, Radio, Television and Tourism",
+      "parent": "Suzhou Municipal People's Government",
+      "followers": 296800.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai Guanchazhe Information Technology Co.,Ltd",
+      "parent": "Shanghai Academy of Social Sciences (SASS)",
+      "followers": 60568.0
+    },
+    {
+      "rof": "China",
       "owner": "Xinhua News Agency",
       "parent": "State Council",
       "followers": 104772960.0
@@ -1552,9 +1822,33 @@ const rofData = {
     },
     {
       "rof": "China",
+      "owner": "Wuzhou Communication Co., Ltd.",
+      "parent": "State Council Information Office (SCIO)",
+      "followers": 12420.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai Media Group (SMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 235700.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai Media Group (SMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 534.0
+    },
+    {
+      "rof": "China",
       "owner": "Wuhan Ruiying New Media Culture Communication Co.",
       "parent": "Hubei Self-Media Association",
       "followers": 2426.0
+    },
+    {
+      "rof": "China",
+      "owner": "Zhengzhou Media Group",
+      "parent": "Zhengzhou Municipal Party Committee",
+      "followers": 15900.0
     },
     {
       "rof": "China",
@@ -1582,15 +1876,81 @@ const rofData = {
     },
     {
       "rof": "China",
+      "owner": "Hunan Satellite TV",
+      "parent": "Hunan Provincial People's Government",
+      "followers": 5260100.0
+    },
+    {
+      "rof": "China",
+      "owner": "Phoenix Media Investment (Holdings) Limited",
+      "parent": "Bauhinia Culture Holdings Limited",
+      "followers": 68900.0
+    },
+    {
+      "rof": "China",
+      "owner": "Zhengzhou Media Group",
+      "parent": "Zhengzhou Municipal Party Committee",
+      "followers": 115.0
+    },
+    {
+      "rof": "China",
       "owner": "China Media Group (CMG)",
       "parent": "Central Publicity Department",
       "followers": 1070000.0
     },
     {
       "rof": "China",
+      "owner": "Anhui Radio and TV Station",
+      "parent": "Anhui Provincial Committee",
+      "followers": 90600.0
+    },
+    {
+      "rof": "China",
+      "owner": "Guangxi Internet Radio and Television Station",
+      "parent": "Guangxi Zhuang Autonomous Region People's Government",
+      "followers": 50100.0
+    },
+    {
+      "rof": "China",
+      "owner": "China Heilongjiang TV (HNBTV)",
+      "parent": "Heilongjiang Provincial Committee",
+      "followers": 74900.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai Media Group (SMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 201000.0
+    },
+    {
+      "rof": "China",
+      "owner": "Gansu Media Group (GSMG)",
+      "parent": "Gansu Provincial People's Government",
+      "followers": 11.0
+    },
+    {
+      "rof": "China",
       "owner": "People's Liberation Army (PLA) Newspaper",
       "parent": "People's Liberation Army",
       "followers": 23.0
+    },
+    {
+      "rof": "China",
+      "owner": "Hubei Radio & Television Station (HBTV)",
+      "parent": "Hubei Provincial People's Government",
+      "followers": 6370.0
+    },
+    {
+      "rof": "China",
+      "owner": "Jiangsu Broadcasting Corporation",
+      "parent": "Jiangsu Provincial People's Government",
+      "followers": 262.0
+    },
+    {
+      "rof": "China",
+      "owner": "General Office of the People's Government of Hubei Province",
+      "parent": "Hubei Provincial People's Government",
+      "followers": 1104.0
     },
     {
       "rof": "China",
@@ -1606,15 +1966,117 @@ const rofData = {
     },
     {
       "rof": "China",
+      "owner": "Shanxi Radio and TV Station",
+      "parent": "Shanxi Provincial People's Government",
+      "followers": 44.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai Media Group (SMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 1890000.0
+    },
+    {
+      "rof": "China",
+      "owner": "Changjiang Daily Press",
+      "parent": "Wuhan Municipal Committee",
+      "followers": 5570.0
+    },
+    {
+      "rof": "China",
+      "owner": "Sichuan Daily Online Media Development Co., Ltd.",
+      "parent": "Sichuan Provincial Committee",
+      "followers": 64.0
+    },
+    {
+      "rof": "China",
+      "owner": "Yunnan Media Group (YMG)",
+      "parent": "Yunnan Provincial Committee",
+      "followers": 164000.0
+    },
+    {
+      "rof": "China",
       "owner": "China Media Group (CMG)",
       "parent": "Central Publicity Department",
       "followers": 1113.0
     },
     {
       "rof": "China",
+      "owner": "2022 19th Asian Games Organizing Committee",
+      "parent": "Hangzhou Municipal People's Government",
+      "followers": 538.0
+    },
+    {
+      "rof": "China",
+      "owner": "Henan Broadcasting System",
+      "parent": "Henan Provincial Committee",
+      "followers": 8489.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shanghai Media Group (SMG)",
+      "parent": "Shanghai Municipal Committee",
+      "followers": 59100.0
+    },
+    {
+      "rof": "China",
+      "owner": "Sansha Satellite TV (SSTV)",
+      "parent": "Sansha Municipal People's Government",
+      "followers": 1100000.0
+    },
+    {
+      "rof": "China",
+      "owner": "Fujian Radio Film and TV Group (FJTV)",
+      "parent": "Fujian Provincial Committee",
+      "followers": 6.0
+    },
+    {
+      "rof": "China",
+      "owner": "Jiangsu Provincial Department of Cultural & Tourism",
+      "parent": "Jiangsu Provincial People's Government",
+      "followers": 251700.0
+    },
+    {
+      "rof": "China",
+      "owner": "Shaanxi Provincial Department of Cultural & Tourism",
+      "parent": "Shaanxi Provincial People's Government",
+      "followers": 12500.0
+    },
+    {
+      "rof": "China",
+      "owner": "AcMedia Limited",
+      "parent": "unknown",
+      "followers": 58000.0
+    },
+    {
+      "rof": "China",
       "owner": "China Media Group (CMG)",
       "parent": "Central Publicity Department",
       "followers": 1.0
+    },
+    {
+      "rof": "China",
+      "owner": "Jiangsu Zhongjiang Network Media Co., Ltd.",
+      "parent": "Jiangsu Provincial People's Government",
+      "followers": 5.0
+    },
+    {
+      "rof": "China",
+      "owner": "Office of the Commissioner of the Ministry of Foreign Affairs of the People's Republic of China in the Hong Kong Special Administrative Region",
+      "parent": "Ministry of Foreign Affairs",
+      "followers": 853000.0
+    },
+    {
+      "rof": "China",
+      "owner": "Wenshan Radio & Television Station",
+      "parent": "Wenshan Municipal People's Government",
+      "followers": 15.0
+    },
+    {
+      "rof": "China",
+      "owner": "Xinhua News Agency",
+      "parent": "State Council",
+      "followers": 1400000.0
     }
   ],
   "Afghanistan": [
@@ -1641,26 +2103,6 @@ const rofData = {
       "owner": "Ministry of Foreign Affairs",
       "parent": "Ministry of Foreign Affairs",
       "followers": 2877.0
-    }
-  ],
-  "Yunnan": [
-    {
-      "rof": "Yunnan",
-      "owner": "Yunnan Daily Press Group",
-      "parent": "State Council Information Office (SCIO)",
-      "followers": 12400.0
-    },
-    {
-      "rof": "Yunnan",
-      "owner": "Yunnan Media Group (YMG)",
-      "parent": "Yunnan Provincial Committee",
-      "followers": 164000.0
-    },
-    {
-      "rof": "Yunnan",
-      "owner": "Wenshan Radio & Television Station",
-      "parent": "Wenshan Municipal People's Government",
-      "followers": 15.0
     }
   ],
   "Switzerland": [
@@ -2517,86 +2959,6 @@ const rofData = {
       "followers": 6682.0
     }
   ],
-  "Shanghai": [
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai United Media Group (SUMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 166133.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai Media Group (SMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 1678189.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai United Media Group (SUMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 1018600.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai Media Group (SMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 2851982.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai United Media Group (SUMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 784121.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai Media Group (SMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 6908.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai United Media Group (SUMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 38485.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai Guanchazhe Information Technology Co.,Ltd",
-      "parent": "Shanghai Academy of Social Sciences (SASS)",
-      "followers": 60568.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai Media Group (SMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 235700.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai Media Group (SMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 534.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai Media Group (SMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 201000.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai Media Group (SMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 1890000.0
-    },
-    {
-      "rof": "Shanghai",
-      "owner": "Shanghai Media Group (SMG)",
-      "parent": "Shanghai Municipal Committee",
-      "followers": 59100.0
-    }
-  ],
   "MENA": [
     {
       "rof": "MENA",
@@ -2651,96 +3013,6 @@ const rofData = {
       "owner": "China Media Group (CMG)",
       "parent": "Central Publicity Department",
       "followers": 1637403.0
-    }
-  ],
-  "Jiangxi": [
-    {
-      "rof": "Jiangxi",
-      "owner": "Jiangxi Provincial Department of Culture and Tourism",
-      "parent": "Jiangxi Provincial People's Government",
-      "followers": 1288000.0
-    }
-  ],
-  "Beijing": [
-    {
-      "rof": "Beijing",
-      "owner": "China International Communications Group (CICG)",
-      "parent": "Central Publicity Department",
-      "followers": 193477.0
-    }
-  ],
-  "Hong Kong": [
-    {
-      "rof": "Hong Kong",
-      "owner": "China Daily Press",
-      "parent": "Central Publicity Department",
-      "followers": 1703717.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "Hong Kong Ta Kung Wen Wei Media Group (HKTKWW)",
-      "parent": "Hong Kong Liaison Office of the Central Government ",
-      "followers": 10943.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "People's Daily Press",
-      "parent": "Central Committee of the Chinese Communist Party",
-      "followers": 1404494.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "Hong Kong Ta Kung Wen Wei Media Group (HKTKWW)",
-      "parent": "Hong Kong Liaison Office of the Central Government ",
-      "followers": 54122.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "Hong Kong Ta Kung Wen Wei Media Group (HKTKWW)",
-      "parent": "Hong Kong Liaison Office of the Central Government ",
-      "followers": 57543.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "AcMedia Limited",
-      "parent": "unknown",
-      "followers": 209412.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "Hong Kong China News Agency",
-      "parent": "United Front Work Department",
-      "followers": 11600.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "Hong Kong China News Agency",
-      "parent": "United Front Work Department",
-      "followers": 5693.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "Phoenix Media Investment (Holdings) Limited",
-      "parent": "Bauhinia Culture Holdings Limited",
-      "followers": 68900.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "AcMedia Limited",
-      "parent": "unknown",
-      "followers": 58000.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "Office of the Commissioner of the Ministry of Foreign Affairs of the People's Republic of China in the Hong Kong Special Administrative Region",
-      "parent": "Ministry of Foreign Affairs",
-      "followers": 853000.0
-    },
-    {
-      "rof": "Hong Kong",
-      "owner": "Xinhua News Agency",
-      "parent": "State Council",
-      "followers": 1400000.0
     }
   ],
   "la Francophonie": [
@@ -3123,26 +3395,6 @@ const rofData = {
       "owner": "China Media Group (CMG)",
       "parent": "Central Publicity Department",
       "followers": 331043.0
-    }
-  ],
-  "Fujian": [
-    {
-      "rof": "Fujian",
-      "owner": "Xiamen Culture and Tourism Bureau",
-      "parent": "Xiamen Municipal People's Government",
-      "followers": 408909.0
-    },
-    {
-      "rof": "Fujian",
-      "owner": "Fuzhou Culture and Tourism Bureau",
-      "parent": "Fuzhou Municipal People's Government",
-      "followers": 69200.0
-    },
-    {
-      "rof": "Fujian",
-      "owner": "Fujian Radio Film and TV Group (FJTV)",
-      "parent": "Fujian Provincial Committee",
-      "followers": 6.0
     }
   ],
   "ASEAN": [
@@ -3919,32 +4171,6 @@ const rofData = {
       "followers": 6098.0
     }
   ],
-  "Hubei": [
-    {
-      "rof": "Hubei",
-      "owner": "Hubei Radio & Television Station (HBTV)",
-      "parent": "Hubei Provincial People's Government",
-      "followers": 1153.0
-    },
-    {
-      "rof": "Hubei",
-      "owner": "Hubei Radio & Television Station (HBTV)",
-      "parent": "Hubei Provincial People's Government",
-      "followers": 6370.0
-    },
-    {
-      "rof": "Hubei",
-      "owner": "General Office of the People's Government of Hubei Province",
-      "parent": "Hubei Provincial People's Government",
-      "followers": 1104.0
-    },
-    {
-      "rof": "Hubei",
-      "owner": "Changjiang Daily Press",
-      "parent": "Wuhan Municipal Committee",
-      "followers": 5570.0
-    }
-  ],
   "Brazil": [
     {
       "rof": "Brazil",
@@ -4021,26 +4247,6 @@ const rofData = {
       "owner": "Ministry of Foreign Affairs",
       "parent": "Ministry of Foreign Affairs",
       "followers": 41000.0
-    }
-  ],
-  "Xinjiang": [
-    {
-      "rof": "Xinjiang",
-      "owner": "Beijing Jiandanshiji Culture Media Co., Ltd",
-      "parent": "unknown",
-      "followers": 1552685.0
-    },
-    {
-      "rof": "Xinjiang",
-      "owner": "People's Daily Press",
-      "parent": "Central Committee of the Chinese Communist Party",
-      "followers": 2418.0
-    },
-    {
-      "rof": "Xinjiang",
-      "owner": "Wuzhou Communication Co., Ltd.",
-      "parent": "State Council Information Office (SCIO)",
-      "followers": 12420.0
     }
   ],
   "Ecuador": [
@@ -4187,46 +4393,6 @@ const rofData = {
       "followers": 8850.0
     }
   ],
-  "Guangxi": [
-    {
-      "rof": "Guangxi",
-      "owner": "GLTVS",
-      "parent": "Guilin Municipal People's Government",
-      "followers": 51900.0
-    },
-    {
-      "rof": "Guangxi",
-      "owner": "Guangxi Internet Radio and Television Station",
-      "parent": "Guangxi Zhuang Autonomous Region People's Government",
-      "followers": 50100.0
-    }
-  ],
-  "Henan": [
-    {
-      "rof": "Henan",
-      "owner": "Henan Broadcasting System",
-      "parent": "Henan Provincial Committee",
-      "followers": 12454.0
-    },
-    {
-      "rof": "Henan",
-      "owner": "Zhengzhou Media Group",
-      "parent": "Zhengzhou Municipal Party Committee",
-      "followers": 15900.0
-    },
-    {
-      "rof": "Henan",
-      "owner": "Zhengzhou Media Group",
-      "parent": "Zhengzhou Municipal Party Committee",
-      "followers": 115.0
-    },
-    {
-      "rof": "Henan",
-      "owner": "Henan Broadcasting System",
-      "parent": "Henan Provincial Committee",
-      "followers": 8489.0
-    }
-  ],
   "Iceland": [
     {
       "rof": "Iceland",
@@ -4249,66 +4415,6 @@ const rofData = {
       "followers": 2111.0
     }
   ],
-  "Hunan": [
-    {
-      "rof": "Hunan",
-      "owner": "Hunan Rednet New Media Group",
-      "parent": "Hunan Provincial Committee",
-      "followers": 1328.0
-    },
-    {
-      "rof": "Hunan",
-      "owner": "Hunan Satellite TV",
-      "parent": "Hunan Provincial People's Government",
-      "followers": 5260100.0
-    }
-  ],
-  "Jiangsu": [
-    {
-      "rof": "Jiangsu",
-      "owner": "Jiangsu Provincial Department of Cultural & Tourism",
-      "parent": "Jiangsu Provincial People's Government",
-      "followers": 19100.0
-    },
-    {
-      "rof": "Jiangsu",
-      "owner": "Phoenix Media Investment (Holdings) Limited",
-      "parent": "Bauhinia Culture Holdings Limited",
-      "followers": 26820.0
-    },
-    {
-      "rof": "Jiangsu",
-      "owner": "Suzhou Municipal Bureau of Culture, Radio, Television and Tourism",
-      "parent": "Suzhou Municipal People's Government",
-      "followers": 296800.0
-    },
-    {
-      "rof": "Jiangsu",
-      "owner": "Jiangsu Broadcasting Corporation",
-      "parent": "Jiangsu Provincial People's Government",
-      "followers": 262.0
-    },
-    {
-      "rof": "Jiangsu",
-      "owner": "Jiangsu Provincial Department of Cultural & Tourism",
-      "parent": "Jiangsu Provincial People's Government",
-      "followers": 251700.0
-    },
-    {
-      "rof": "Jiangsu",
-      "owner": "Jiangsu Zhongjiang Network Media Co., Ltd.",
-      "parent": "Jiangsu Provincial People's Government",
-      "followers": 5.0
-    }
-  ],
-  "Chongqing": [
-    {
-      "rof": "Chongqing",
-      "owner": "Chongqing International Communication Center",
-      "parent": "Chongqing Municipal Committee",
-      "followers": 7228712.0
-    }
-  ],
   "Lithuania": [
     {
       "rof": "Lithuania",
@@ -4321,52 +4427,6 @@ const rofData = {
       "owner": "Ministry of Foreign Affairs",
       "parent": "Ministry of Foreign Affairs",
       "followers": 539.0
-    }
-  ],
-  "Zhejiang": [
-    {
-      "rof": "Zhejiang",
-      "owner": "China Daily Press",
-      "parent": "Ningbo Municipal People's Government",
-      "followers": 52900.0
-    },
-    {
-      "rof": "Zhejiang",
-      "owner": "Jiaxing Radio and Television Media Co., Ltd.",
-      "parent": "Jiaxing Municipal Committee",
-      "followers": 2.0
-    },
-    {
-      "rof": "Zhejiang",
-      "owner": "China Daily Press",
-      "parent": "Shaoxing Municipal People's Government",
-      "followers": 48700.0
-    },
-    {
-      "rof": "Zhejiang",
-      "owner": "Zhejiang Daily Newspaper Group",
-      "parent": "Zhejiang Provincial Committee",
-      "followers": 6396.0
-    },
-    {
-      "rof": "Zhejiang",
-      "owner": "2022 19th Asian Games Organizing Committee",
-      "parent": "Hangzhou Municipal People's Government",
-      "followers": 538.0
-    }
-  ],
-  "Jilin": [
-    {
-      "rof": "Jilin",
-      "owner": "China Daily Press",
-      "parent": "Jilin Provincial People's Government",
-      "followers": 199300.0
-    },
-    {
-      "rof": "Jilin",
-      "owner": "Jilin Daily Press",
-      "parent": "Jilin Provincial Committee",
-      "followers": 12200.0
     }
   ],
   "Hispanophone": [
@@ -4533,46 +4593,6 @@ const rofData = {
       "followers": 34328.0
     }
   ],
-  "Hainan": [
-    {
-      "rof": "Hainan",
-      "owner": "China Daily Press",
-      "parent": "Sanya Municipal People's Government",
-      "followers": 783816.0
-    },
-    {
-      "rof": "Hainan",
-      "owner": "unknown",
-      "parent": "unknown",
-      "followers": 3451.0
-    },
-    {
-      "rof": "Hainan",
-      "owner": "Sanya Tourism Board",
-      "parent": "Sanya Municipal People's Government",
-      "followers": 800455.0
-    },
-    {
-      "rof": "Hainan",
-      "owner": "Sansha Satellite TV (SSTV)",
-      "parent": "Sansha Municipal People's Government",
-      "followers": 1100000.0
-    }
-  ],
-  "Shaanxi": [
-    {
-      "rof": "Shaanxi",
-      "owner": "Beijing Jiandanshiji Culture Media Co., Ltd",
-      "parent": "unknown",
-      "followers": 80700.0
-    },
-    {
-      "rof": "Shaanxi",
-      "owner": "Shaanxi Provincial Department of Cultural & Tourism",
-      "parent": "Shaanxi Provincial People's Government",
-      "followers": 12500.0
-    }
-  ],
   "Israel": [
     {
       "rof": "Israel",
@@ -4593,50 +4613,12 @@ const rofData = {
       "followers": 22700.0
     }
   ],
-  "Sichuan": [
-    {
-      "rof": "Sichuan",
-      "owner": "Sichuan Daily Online Media Development Co., Ltd.",
-      "parent": "Sichuan Provincial Committee",
-      "followers": 29026.0
-    },
-    {
-      "rof": "Sichuan",
-      "owner": "Sichuan Daily Online Media Development Co., Ltd.",
-      "parent": "Sichuan Provincial Committee",
-      "followers": 64.0
-    }
-  ],
   "East African Community": [
     {
       "rof": "East African Community",
       "owner": "China Media Group (CMG)",
       "parent": "Central Publicity Department",
       "followers": 2200042.0
-    }
-  ],
-  "Guangdong": [
-    {
-      "rof": "Guangdong",
-      "owner": "Nanfang Daily Newspaper Group Co.,Ltd",
-      "parent": "Guangdong Provincial Committee",
-      "followers": 3088225.0
-    }
-  ],
-  "Tibet": [
-    {
-      "rof": "Tibet",
-      "owner": "China Daily Press",
-      "parent": "Tibet Autonomous Region People's Government",
-      "followers": 196198.0
-    }
-  ],
-  "Shandong": [
-    {
-      "rof": "Shandong",
-      "owner": "Shandong Provincial Department of Culture and Tourism",
-      "parent": "Shandong Provincial People's Government",
-      "followers": 1558550.0
     }
   ],
   "Bolivia": [
@@ -4713,44 +4695,12 @@ const rofData = {
       "followers": 7.0
     }
   ],
-  "Anhui": [
-    {
-      "rof": "Anhui",
-      "owner": "Anhui Radio and TV Station",
-      "parent": "Anhui Provincial Committee",
-      "followers": 90600.0
-    }
-  ],
-  "Heilongjiang": [
-    {
-      "rof": "Heilongjiang",
-      "owner": "China Heilongjiang TV (HNBTV)",
-      "parent": "Heilongjiang Provincial Committee",
-      "followers": 74900.0
-    }
-  ],
-  "Gansu": [
-    {
-      "rof": "Gansu",
-      "owner": "Gansu Media Group (GSMG)",
-      "parent": "Gansu Provincial People's Government",
-      "followers": 11.0
-    }
-  ],
   "Taiwan": [
     {
       "rof": "Taiwan",
       "owner": "Fujian Daily News Group",
       "parent": "Fujian Provincial Committee",
       "followers": 473000.0
-    }
-  ],
-  "Shanxi": [
-    {
-      "rof": "Shanxi",
-      "owner": "Shanxi Radio and TV Station",
-      "parent": "Shanxi Provincial People's Government",
-      "followers": 44.0
     }
   ],
   "Vietnam": [
