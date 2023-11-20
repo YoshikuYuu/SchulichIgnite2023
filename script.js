@@ -6,12 +6,6 @@ const currentHeight = image.offsetHeight;
 const currentWidth = image.offsetWidth;
 
 document.addEventListener('DOMContentLoaded', function () {
-    const data = {
-        "Canada": { total: 100, cows: 42 },
-        "China": { total: 500, cows: 42 },
-        "England": { total: 500, cows: 42 }
-    };
-
     console.log(rofData);
 
     const visualizationContainer = document.getElementById('visualization');
