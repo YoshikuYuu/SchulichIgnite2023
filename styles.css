@@ -19,7 +19,7 @@ body {
 
 .circle {
     border-radius: 50%;
-    background-color: #3498db;
+    background-color: #fac800;
     position: absolute;
     cursor: pointer;
     transition: transform 0.3s;
