@@ -74,10 +74,12 @@ document.addEventListener('DOMContentLoaded', function () {
         const parents = [];
         const totalFollows = countryInfo["followers"];
         Object.entries(owners).forEach(([owner, followers]) => {
-          count.push(followers / countryInfo["followers"] * 180);
-          sum += followers / countryInfo["followers"] * 180;
           let percentage = Math.round((followers / countryInfo["followers"] * 100) * 10) / 10;
-          parents.push(owner + " (" +  percentage + "%)");
+          if (percentage != 0) {
+            parents.push(owner + " (" +  percentage + "%)");
+            count.push(followers / countryInfo["followers"] * 180);
+            sum += followers / countryInfo["followers"] * 180;
+          }
         });
 
 
@@ -117,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       const distanceFromBottom = image.getBoundingClientRect().bottom;
-      
+
       function displayData(isDataVisible, parents, colours, country) {
         const container = document.getElementById('dataDisplay');
         const countryContainer = document.getElementById('countryNameDisplay');
