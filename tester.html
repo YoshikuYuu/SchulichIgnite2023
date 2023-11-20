@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Circle Visualization</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="image-container">
+        <div id="visualization">
+            <img id="map" src="world-map.png" alt="Centered Image">
+        </div>
+        <div id="marker"></div>
+        <div id="zoomed-view" style="display: none;"></div>
+    </div>
+
+    <button onclick="togglePieGraph()">Toggle Pie Graph</button>
+
+    <div id="pieGraphContainer2">
+    <canvas id="pieGraph" width="200" height="200" hidden></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
