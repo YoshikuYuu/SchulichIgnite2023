@@ -51,8 +51,9 @@ document.addEventListener('DOMContentLoaded', function () {
           circle.style.top = `${(currentHeight / 363 * 102) / currentHeight * 100}%`;
         } else {
           // Zoom in
-          circle.style.width = `${currentHeight - 20}px`;
-          circle.style.height = `${currentHeight - 20}px`;
+          const rad = Math.min(currentHeight, currentWidth);
+          circle.style.width = `${rad - 20}px`;
+          circle.style.height = `${rad - 20}px`;
           circle.style.left = `${imageWidth /2 - ((currentHeight - 20)/2)}px`;
           circle.style.top = `5px`;
         }
