@@ -12,21 +12,22 @@ document.addEventListener('DOMContentLoaded', function () {
         "England": { total: 500, cows: 42 }
     };
 
-    console.log(rofData);
+    console.log(rofPopData);
 
     const visualizationContainer = document.getElementById('visualization');
 
-    Object.entries(data).forEach(([country, values]) => {
-        const radius = Math.sqrt(values.total);
+    Object.entries(coordinates).forEach(([country, coords]) => {
+        const radius = Math.sqrt(100);
         const circle = document.createElement('div');
         circle.classList.add('circle');
         const originalWidth = `${radius * 2}px`;
         const originalHeight = `${radius * 2}px`;
         circle.style.width = originalWidth
         circle.style.height = originalHeight
-        circle.style.left = `${(currentWidth / 610 * 106) / currentWidth * 100}%`;
-        circle.style.top = `${(currentHeight / 363 * 102) / currentHeight * 100}%`;
-        circle.title = `${country} - Total: ${values.total}, Cows: ${values.cows}`;
+        console.log(currentHeight)
+        circle.style.left = `${(currentWidth / 610 * coords[0]) / currentWidth * 100}%`;
+        circle.style.top = `${(currentHeight / 363 * coords[1]) / currentHeight * 100}%`;
+        circle.title = `${country} - Coords: ${coords[0]}, ${coords[1]}`;
 
         circle.addEventListener('click', function () {
             showPopup();
