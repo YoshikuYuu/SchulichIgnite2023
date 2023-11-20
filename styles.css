@@ -11,6 +11,12 @@ body {
     position: relative;
 }
 
+#title {
+    height: 100px;
+    min-height: 100px;
+    overflow: hidden;
+}
+
 .circle {
     border-radius: 50%;
     background-color: #3498db;
@@ -43,16 +49,12 @@ img {
     max-height: 100%;
 }
 
-#pieGraphContainer2 {
-    position: relative;
-    width: 200px;
-    height: 200px;
-  }
-
   canvas {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 0%;
+    left: 0%;
+    padding-bottom: 10px;
+    cursor: pointer;
   }
 
   /* canvas {
