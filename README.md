@@ -1,1 +1,1 @@
-# ShulichIgnite2023
+# SchulichIgnite2023
