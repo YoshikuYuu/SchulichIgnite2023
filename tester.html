@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div id="title">Title</div>
+
     <div id="image-container">
         <div id="visualization">
             <img id="map" src="world-map.png" alt="Centered Image">
@@ -14,13 +16,12 @@
         <div id="marker"></div>
         <div id="zoomed-view" style="display: none;"></div>
     </div>
-
-    <button onclick="togglePieGraph()">Toggle Pie Graph</button>
-
-    <div id="pieGraphContainer2">
-    <canvas id="pieGraph" width="200" height="200" hidden></canvas>
+    
+    <div class="popup" id="popup">
+        <canvas id="pieGraph" width="200" height="200" hidden></canvas>
     </div>
-    <script src="chinese_influence_by_rof.js"></script>
+    <script src="rof_to_pop_radius.js"></script>
     <script src="script.js"></script>
+    <script src="countries_coordinates.js"></script>
 </body>
 </html>
